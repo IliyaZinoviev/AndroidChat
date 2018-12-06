@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="ip">http://192.168.1.215:3000</string>
+    <string name="url_login">http://192.168.1.215:3000/login"</string>
+    <string name="url_add_user">http://192.168.1.215:3000/add_user"</string>
+    <string name="pt_login">Введите ваше имя!</string>
+    <string name="tv_login">Регистрация</string>
+    <string name="b_confirm">Подтвердить</string>
+    <string name="tv_rooms">Ваши беседы</string>
+    <string name="empty">Вы не состоите ни в одной беседе.\nСоздайте свою!!!</string>
+</resources>
