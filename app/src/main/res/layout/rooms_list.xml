@@ -15,6 +15,6 @@
         android:layout_width="match_parent"
         android:layout_height="440dp"
         android:gravity="top"
-        android:text="@string/empty"
+        android:text="@string/empty_list_rooms"
         android:textAlignment="center"/>
 </LinearLayout>

@@ -33,7 +33,7 @@ public class ChatListAdapter extends ArrayAdapter<Item> {
         Item item = items.get(position);
 
         str1.setText(item.getStr1());
-        str2.setText(item.getStr1());
+        str2.setText(item.getStr2());
 
         return view;
     }

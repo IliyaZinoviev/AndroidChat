@@ -13,12 +13,12 @@
             android:id="@+id/str1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Название" />
+            android:text="" />
 
         <TextView
             android:id="@+id/str2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Столица" />
+            android:text="" />
     </LinearLayout>
 </LinearLayout>
